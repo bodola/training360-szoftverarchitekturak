@@ -1,2 +1,3 @@
 # training360-szoftverarchitekturak
-![Első](1_1.pdf)
+
+![](1_1.pdf)
