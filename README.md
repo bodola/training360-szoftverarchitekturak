@@ -1,3 +1,3 @@
 # training360-szoftverarchitekturak
 
-![](1_1.pdf)
+![Elso](1_1.pdf)
