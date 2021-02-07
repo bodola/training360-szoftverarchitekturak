@@ -43,6 +43,10 @@
 ![](30.png)
 
 #Web formátumai: HTML és CSS (gyakorlat)
+![](31.png)
+![](32.png)
+![](33.png)
+![](34.png)
 
 #Webes alkalmazas RIA felülettel - JavaScript (gyakorlat)
 
