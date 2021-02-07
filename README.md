@@ -32,6 +32,9 @@
 ![](23.png)
 
 #Többrétegű alkalmazások (gyakorlat)
+![](24.png)
+![](25.png)
+![](26.png)
 
 #Webes alkalmazás (gyakorlat)
 
