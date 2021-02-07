@@ -16,4 +16,4 @@
 # Virtualizació (gyakorlat)
 
 ![Elso](01.png)
-![alt+text](01.png)
+![](01.png)
