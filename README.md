@@ -11,6 +11,10 @@
 ![](08.png)
 
 #Központi adatbázis (gyakorlat)
+![](09.png)
+![](10.png)
+![](11.png)
+![](12.png)
 
 #SQL nyelv (gyakorlat)
 
