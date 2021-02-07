@@ -37,6 +37,10 @@
 ![](26.png)
 
 #Webes alkalmazás (gyakorlat)
+![](27.png)
+![](28.png)
+![](29.png)
+![](30.png)
 
 #Web formátumai: HTML és CSS (gyakorlat)
 
