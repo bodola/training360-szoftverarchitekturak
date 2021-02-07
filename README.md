@@ -7,6 +7,8 @@
 ![](06.png)
 
 #Standalone alkalmazás grafikus felülettel (gyakorlat)
+![](07.png)
+![](08.png)
 
 #Központi adatbázis (gyakorlat)
 
