@@ -26,6 +26,10 @@
 ![](19.png)
 
 #NOSQL adatbázisok (gyakorlat)
+![](20.png)
+![](21.png)
+![](22.png)
+![](23.png)
 
 #Többrétegű alkalmazások (gyakorlat)
 
