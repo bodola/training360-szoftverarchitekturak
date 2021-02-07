@@ -15,5 +15,4 @@
 # Magas rendelkezésre állás és skálázhatóság (gyakorlat)
 # Virtualizació (gyakorlat)
 
-![Elso](01.png)
-!(01.png)
+![](01.png)
