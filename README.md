@@ -14,5 +14,5 @@
 # Szerver alkalmazas webszolgáltatás interfesszel (gyakorlat)
 # Magas rendelkezésre állás és skálázhatóság (gyakorlat)
 # Virtualizació (gyakorlat)
-
+![](01.png)
 ![](01.png)
