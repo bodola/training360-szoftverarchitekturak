@@ -48,10 +48,10 @@
 ![](33.png)
 ![](34.png)
 
-## Webes alkalmazas RIA felülettel - JavaScript (gyakorlat)
+## Webes alkalmazás RIA felülettel - JavaScript (gyakorlat)
 ![](36.png)
 
-## Webes alkalmazas RIA felülettel - webes alkalmazas (gyakorlat)
+## Webes alkalmazás RIA felülettel - webes alkalmazas (gyakorlat)
 ![](37.png)
 ![](38.png)
 
@@ -64,7 +64,7 @@
 ![](42.png)
 ![](43.png)
 
-## Szerver alkalmazas webszolgáltatás interfesszel (gyakorlat)
+## Szerver alkalmazás webszolgáltatás interfésszel (gyakorlat)
 
 ## Magas rendelkezésre állás és skálázhatóság (gyakorlat)
 
