@@ -52,6 +52,8 @@
 ![](36.png)
 
 #Webes alkalmazas RIA felülettel - webes alkalmazas (gyakorlat)
+![](37.png)
+![](38.png)
 
 #REST webszolgáltatások - Swagger (gyakorlat)
 
