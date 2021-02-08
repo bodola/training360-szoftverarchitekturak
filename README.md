@@ -60,7 +60,9 @@
 ![](40.png)
 
 #REST webszolgáltatások - Postman (gyakorlat)
-
+![](41.png)
+![](42.png)
+![](43.png)
 #Szerver alkalmazas webszolgáltatás interfesszel (gyakorlat)
 
 #Magas rendelkezésre állás és skálázhatóság (gyakorlat)
