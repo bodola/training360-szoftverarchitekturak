@@ -49,11 +49,15 @@
 ![](34.png)
 
 #Webes alkalmazas RIA felülettel - JavaScript (gyakorlat)
-![](35.png)
+![](36.png)
 
 #Webes alkalmazas RIA felülettel - webes alkalmazas (gyakorlat)
+![](37.png)
+![](38.png)
 
 #REST webszolgáltatások - Swagger (gyakorlat)
+![](39.png)
+![](40.png)
 
 #REST webszolgáltatások - Postman (gyakorlat)
 
