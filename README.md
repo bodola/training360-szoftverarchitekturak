@@ -49,6 +49,7 @@
 ![](34.png)
 
 #Webes alkalmazas RIA felülettel - JavaScript (gyakorlat)
+![](35.png)
 
 #Webes alkalmazas RIA felülettel - webes alkalmazas (gyakorlat)
 
