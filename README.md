@@ -1,5 +1,5 @@
 # training360-szoftverarchitekturak
-## Standalone konzolos alkalmazás (gyakorlat) 
+## Standalone konzolos alkalmazás (gyakorlat) `#1589F0`
 ![](02.png)
 ![](03.png)
 ![](04.png)
