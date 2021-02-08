@@ -56,6 +56,8 @@
 ![](38.png)
 
 #REST webszolgáltatások - Swagger (gyakorlat)
+![](39.png)
+![](40.png)
 
 #REST webszolgáltatások - Postman (gyakorlat)
 
