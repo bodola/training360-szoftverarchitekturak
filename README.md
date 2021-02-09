@@ -65,6 +65,11 @@
 ![](43.png)
 
 ## Szerver alkalmazás webszolgáltatás interfésszel (gyakorlat)
+![](44.png)
+![](45.png)
+![](46.png)
+![](47.png)
+![](48.png)
 
 ## Magas rendelkezésre állás és skálázhatóság (gyakorlat)
 
