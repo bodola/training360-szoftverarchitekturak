@@ -1,9 +1,13 @@
 # training360-szoftverarchitekturak
 ## Standalone konzolos alkalmazás (gyakorlat) 
 ![](02.png)
+
 ![](03.png)
+
 ![](04.png)
+
 ![](05.png)
+
 ![](06.png)
 
 ## Standalone alkalmazás grafikus felülettel (gyakorlat)
