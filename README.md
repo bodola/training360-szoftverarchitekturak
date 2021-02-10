@@ -105,6 +105,15 @@
 ![](48.png)
 
 ## Magas rendelkezésre állás és skálázhatóság (gyakorlat)
+![](49.png)
+
+![](50.png)
+
+![](51.png)
+
+![](52.png)
+
+![](53.png)
 
 ## Virtualizació (gyakorlat)
 
