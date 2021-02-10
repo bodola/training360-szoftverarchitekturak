@@ -116,4 +116,4 @@
 ![](53.png)
 
 ## Virtualizació (gyakorlat)
-
+![](54.png)
